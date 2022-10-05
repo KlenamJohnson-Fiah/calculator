@@ -9,3 +9,6 @@ class calculator:
 
     def add(self) -> int:
         return self.numberA + self.numberB
+    
+    def addingDecimals(self) ->float:
+        return self.numberA +self.numberB
